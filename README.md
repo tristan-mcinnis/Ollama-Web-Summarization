@@ -26,7 +26,7 @@ This repository contains a Python-based tool for summarizing web content using t
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ollama-web-summarization.git
+git clone
 cd ollama-web-summarization
 ```
 Install the required Python packages:
@@ -52,12 +52,11 @@ The script will fetch the URLs, clean the content, generate a summary using the 
 ## Logging
 The repository includes a rich-based logging utility for styled console output. The logging outputs steps, results, and errors clearly in the terminal.
 
-## Logging
-Files
+## Files
 - ollama_web_summarize.py: Main script to fetch URLs, clean the content, and generate summaries.
 - rich_logger.py: Utility for styled logging using rich.
 
-## Logging
+## License
 This project is licensed under the MIT License.
 
 
