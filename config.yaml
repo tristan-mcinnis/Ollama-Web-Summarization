@@ -1,0 +1,7 @@
+search_url: "https://ollama.com/blog/llama3.2" #add the url here
+ollama_url: "http://localhost:11434"
+ollama_model: "llama3.2"
+system_prompt: "You are an AI expert assistant that generates summaries from provided texts."
+user_prompt: "{query}. Summarize the information and provide an answer. Use only the information in the following articles to answer the question: {texts}"
+output_directory: "output"
+title_prompt: "Generate a concise 3-4 word title for the following text, suitable for a filename: {content}"
