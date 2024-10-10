@@ -12,7 +12,7 @@ This repository contains a Python-based tool for summarizing web content using t
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.10'
 - `requests`
 - `beautifulsoup4`
 - `readability-lxml`
