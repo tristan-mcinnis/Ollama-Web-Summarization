@@ -37,7 +37,7 @@ Set up your config.yaml file with the following parameters:
 ```bash
 search_url: "https://example.com"
 ollama_url: "https://api.ollama.com"
-ollama_model: "llama-2"
+ollama_model: "llama-3.2"
 output_directory: "./output"
 user_prompt: "Summarize the following content: {texts}."
 ```
